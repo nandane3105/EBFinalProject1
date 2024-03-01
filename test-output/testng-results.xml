@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-01T20:28:15 IST" name="Suite" finished-at="2024-03-01T20:28:38 IST" duration-ms="22970">
+    <groups>
+    </groups>
+    <test started-at="2024-03-01T20:28:15 IST" name="Test" finished-at="2024-03-01T20:28:38 IST" duration-ms="22970">
+      <class name="stepDefination.AllNopCommerceSteps">
+        <test-method is-config="true" signature="launch_the_website_and_user_navigates_to_login_page()[pri:0, instance:stepDefination.AllNopCommerceSteps@67ab1c47]" started-at="2024-03-01T20:28:06 IST" name="launch_the_website_and_user_navigates_to_login_page" finished-at="2024-03-01T20:28:15 IST" duration-ms="9195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_the_website_and_user_navigates_to_login_page -->
+        <test-method signature="user_enters_valid_username_and_password()[pri:2, instance:stepDefination.AllNopCommerceSteps@67ab1c47]" started-at="2024-03-01T20:28:15 IST" name="user_enters_valid_username_and_password" finished-at="2024-03-01T20:28:16 IST" duration-ms="1066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_enters_valid_username_and_password -->
+        <test-method signature="save_the_credentials_and_clicks_on_login_button()[pri:3, instance:stepDefination.AllNopCommerceSteps@67ab1c47]" started-at="2024-03-01T20:28:16 IST" name="save_the_credentials_and_clicks_on_login_button" finished-at="2024-03-01T20:28:19 IST" duration-ms="2655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- save_the_credentials_and_clicks_on_login_button -->
+        <test-method signature="user_is_navigated_to_the_dashboard_page()[pri:4, instance:stepDefination.AllNopCommerceSteps@67ab1c47]" started-at="2024-03-01T20:28:19 IST" name="user_is_navigated_to_the_dashboard_page" finished-at="2024-03-01T20:28:21 IST" duration-ms="1950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_is_navigated_to_the_dashboard_page -->
+        <test-method signature="click_on_sales()[pri:5, instance:stepDefination.AllNopCommerceSteps@67ab1c47]" started-at="2024-03-01T20:28:21 IST" name="click_on_sales" finished-at="2024-03-01T20:28:21 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_sales -->
+        <test-method signature="click_on_ordes()[pri:6, instance:stepDefination.AllNopCommerceSteps@67ab1c47]" started-at="2024-03-01T20:28:21 IST" name="click_on_ordes" finished-at="2024-03-01T20:28:22 IST" duration-ms="1278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_ordes -->
+        <test-method signature="read_the_orders_table()[pri:7, instance:stepDefination.AllNopCommerceSteps@67ab1c47]" started-at="2024-03-01T20:28:22 IST" name="read_the_orders_table" finished-at="2024-03-01T20:28:25 IST" duration-ms="2495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- read_the_orders_table -->
+        <test-method signature="click_on_customers_from_dashboard()[pri:8, instance:stepDefination.AllNopCommerceSteps@67ab1c47]" started-at="2024-03-01T20:28:25 IST" name="click_on_customers_from_dashboard" finished-at="2024-03-01T20:28:26 IST" duration-ms="974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_customers_from_dashboard -->
+        <test-method signature="click_on_edit_buttom_to_change_the_password_for_the_customer()[pri:9, instance:stepDefination.AllNopCommerceSteps@67ab1c47]" started-at="2024-03-01T20:28:26 IST" name="click_on_edit_buttom_to_change_the_password_for_the_customer" finished-at="2024-03-01T20:28:32 IST" duration-ms="6430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_edit_buttom_to_change_the_password_for_the_customer -->
+        <test-method signature="click_on_add_rewards_point()[pri:10, instance:stepDefination.AllNopCommerceSteps@67ab1c47]" started-at="2024-03-01T20:28:32 IST" name="click_on_add_rewards_point" finished-at="2024-03-01T20:28:33 IST" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_add_rewards_point -->
+        <test-method signature="add_the_rewards_points_to_the_customer()[pri:11, instance:stepDefination.AllNopCommerceSteps@67ab1c47]" started-at="2024-03-01T20:28:33 IST" name="add_the_rewards_points_to_the_customer" finished-at="2024-03-01T20:28:35 IST" duration-ms="2906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_the_rewards_points_to_the_customer -->
+        <test-method signature="read_a_table_with_added_rewards_points()[pri:12, instance:stepDefination.AllNopCommerceSteps@67ab1c47]" started-at="2024-03-01T20:28:35 IST" name="read_a_table_with_added_rewards_points" finished-at="2024-03-01T20:28:38 IST" duration-ms="2052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- read_a_table_with_added_rewards_points -->
+        <test-method is-config="true" signature="close_the_browser()[pri:0, instance:stepDefination.AllNopCommerceSteps@67ab1c47]" started-at="2024-03-01T20:28:38 IST" name="close_the_browser" finished-at="2024-03-01T20:28:38 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_the_browser -->
+      </class> <!-- stepDefination.AllNopCommerceSteps -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
